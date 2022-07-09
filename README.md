@@ -77,7 +77,7 @@ This is a fully responsive restaurant website
 
 <h4>Features</h4>
   <ul>
-    <li> 
+    <li> Fully responsive on different device widths
   </ul>
 
 <h4>Lessons Learned</h4>
@@ -88,12 +88,12 @@ This is a fully responsive restaurant website
   
 <h4>Problems Encountered</h4>
   <ul>
-    <li> 
+    <li> N/A
   </ul>
 
 <h4>Improvements to Add</h4>
   <ul>
-    <li> 
+    <li> N/A
   </ul>
 
 <h4>Credits</h4>
